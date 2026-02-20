@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. This is an Admin account used to manage the chapter. Visit BCS-SRM-Student-Chapter for the chapter account
 
 <!--
 **BCS-SRM-Student-Chapter-Admin/BCS-SRM-Student-Chapter-Admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
